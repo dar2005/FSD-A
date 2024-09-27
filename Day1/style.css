@@ -1,3 +1,16 @@
 body{
     background-color: aquamarine;
 }
+table{
+    background-color:azure;
+    border-radius: 10px;
+    border-color: brown;
+    border-style: groove;
+    border-width: 10px;
+    color: black;
+}
+h1{
+    background-color: blanchedalmond;
+    color: black;
+    text-align: center;
+}
